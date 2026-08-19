@@ -1,0 +1,32 @@
+VS CODE / TERMINAL COMMANDS
+
+Experiment 07:
+gcc experiment07_bankers.c -o bankers
+./bankers
+
+Experiment 08:
+gcc experiment08_deadlock.c -o deadlock
+./deadlock
+
+Experiment 09:
+gcc experiment09_threading.c -o threading -pthread
+./threading
+
+Experiment 10:
+gcc experiment10_paging.c -o paging
+./paging
+
+Experiment 11:
+gcc experiment11_memory_allocation.c -o experiment11_memory_allocation
+./experiment11_memory_allocation
+
+Experiment 12:
+gcc experiment12_page_replacement.c -o experiment12_page_replacement
+./experiment12_page_replacement
+
+Experiment 13:
+gcc experiment13_file_organization.c -o experiment13_file_organization
+./experiment13_file_organization
+
+Windows PowerShell:
+Use .\program.exe instead of ./program when running compiled executables.

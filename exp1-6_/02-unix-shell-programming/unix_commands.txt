@@ -1,0 +1,20 @@
+UNIX commands covered:
+date
+cal
+echo
+who
+ls
+mkdir
+cd
+rmdir
+cat
+cp
+mv
+rm
+wc
+head
+tail
+grep
+sort
+pipe (|)
+tr

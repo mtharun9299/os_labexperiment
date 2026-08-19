@@ -1,0 +1,1 @@
+Sample file for close() system call demonstration.
